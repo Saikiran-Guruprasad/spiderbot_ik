@@ -1,0 +1,40 @@
+running egg_info
+creating build/ik/ik.egg-info
+writing build/ik/ik.egg-info/PKG-INFO
+writing dependency_links to build/ik/ik.egg-info/dependency_links.txt
+writing entry points to build/ik/ik.egg-info/entry_points.txt
+writing requirements to build/ik/ik.egg-info/requires.txt
+writing top-level names to build/ik/ik.egg-info/top_level.txt
+writing manifest file 'build/ik/ik.egg-info/SOURCES.txt'
+reading manifest file 'build/ik/ik.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/ik/ik.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/saikirang/spiderbot_ws/src/ik/build/ik/build
+creating /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib
+creating /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib/ik
+copying ik/input_noder.py -> /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib/ik
+copying ik/__init__.py -> /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib/ik
+copying ik/final_ik_.py -> /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib/ik
+running install
+running install_lib
+creating /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik
+copying /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib/ik/input_noder.py -> /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik
+copying /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib/ik/__init__.py -> /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik
+copying /home/saikirang/spiderbot_ws/src/ik/build/ik/build/lib/ik/final_ik_.py -> /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik
+byte-compiling /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik/input_noder.py to input_noder.cpython-310.pyc
+byte-compiling /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik/final_ik_.py to final_ik_.cpython-310.pyc
+running install_data
+creating /home/saikirang/spiderbot_ws/src/ik/install/ik/share/ament_index
+creating /home/saikirang/spiderbot_ws/src/ik/install/ik/share/ament_index/resource_index
+creating /home/saikirang/spiderbot_ws/src/ik/install/ik/share/ament_index/resource_index/packages
+copying resource/ik -> /home/saikirang/spiderbot_ws/src/ik/install/ik/share/ament_index/resource_index/packages
+copying package.xml -> /home/saikirang/spiderbot_ws/src/ik/install/ik/share/ik
+running install_egg_info
+Copying build/ik/ik.egg-info to /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/python3.10/site-packages/ik-0.0.0-py3.10.egg-info
+running install_scripts
+Installing final_ik_node script to /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/ik
+Installing input_noder script to /home/saikirang/spiderbot_ws/src/ik/install/ik/lib/ik
+writing list of installed files to '/home/saikirang/spiderbot_ws/src/ik/build/ik/install.log'

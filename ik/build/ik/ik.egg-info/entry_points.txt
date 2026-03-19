@@ -1,4 +1,0 @@
-[console_scripts]
-final_ik_node = ik.final_ik_:main
-input_noder = ik.input_noder:main
-

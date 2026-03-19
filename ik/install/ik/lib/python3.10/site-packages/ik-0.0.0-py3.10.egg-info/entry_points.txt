@@ -1,0 +1,6 @@
+[console_scripts]
+final_ik_check = ik.final_ik_check:main
+final_ik_node = ik.final_ik_:main
+input_noder = ik.input_noder:main
+joint_state_bridge = ik.publish_ik:main
+
